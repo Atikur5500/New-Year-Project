@@ -71,3 +71,64 @@ li{
     margin-right: 10px;
     color: green;
 }
+.plan-title{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 32px;
+    text-decoration: underline;
+}
+.skill-container{
+    padding-top: 50px;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+.gradient-section{
+    width: 1140px;
+    margin: 50px auto;
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+}
+.footer-container{
+    display: flex;
+    background-color: #747474;
+    padding: 150px;
+    color: white;
+}
+.footer-container p{
+    margin-bottom: 20px;
+}
+.footer-title{
+    font-size: 28px;
+    margin-top: 20px;
+}
+.footer-description{
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+.icon-content{
+    width: 50%;
+    padding: 20px;
+}
+.input-content{
+    margin-top: 20px;
+    margin-left: 200px;
+    padding: 20px;
+}
+.input-content h5{
+    font-size: 24px;
+}
+input[type='email']{
+    margin: 10px 0px;
+    width: 100%;
+    height: 40px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.subs-button{
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
